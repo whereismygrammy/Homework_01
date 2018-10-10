@@ -1,0 +1,6 @@
+ Utworzono customer Logger
+ Dodanu uzytkownika do listy
+ Przygotowano listę użytkowników
+ Utworzono customer Logger
+ Dodanu uzytkownika do listy
+ Przygotowano listę użytkowników
